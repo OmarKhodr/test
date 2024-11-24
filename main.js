@@ -13,3 +13,7 @@ function printBaz() {
 function printKing() {
   console.log('King');
 }
+
+function printOmar() {
+  console.log('Omar');
+}
