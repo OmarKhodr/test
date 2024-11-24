@@ -8,6 +8,7 @@ function printBar() {
 
 function printBaz() {
   console.log('Baz');
+  console.log("ana l king hon");
 }
 
 function printKing() {
