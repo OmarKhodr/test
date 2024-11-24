@@ -9,3 +9,7 @@ function printBar() {
 function printBaz() {
   console.log('Baz');
 }
+
+function printKing() {
+  console.log('King');
+}
