@@ -6,6 +6,10 @@ function printBar() {
   console.log('Bar');
 }
 
+function printPotato() {
+  console.log('Potato');
+}
+
 function printBaz() {
   console.log('Baz');
 }
