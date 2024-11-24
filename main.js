@@ -10,10 +10,6 @@ function printPotato() {
   console.log('Potato');
 }
 
-function printBaz() {
-  console.log('Baz');
-}
-
 function printKing() {
   console.log('King');
 }
